@@ -9,3 +9,4 @@ Inverse problems exist in many disciplines of  science and engineering. In compu
 - CUDA 11.3.1
 
 ## How to run the code
+### Clone the repository
