@@ -1,1 +1,1 @@
-# Variance-Aware-Diffusion-Models
+Covariance-Aware Diffusion Models for Solving Inverse Problems
