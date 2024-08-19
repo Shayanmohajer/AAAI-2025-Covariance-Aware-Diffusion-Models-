@@ -8,7 +8,7 @@ Inverse problems exist in many disciplines of  science and engineering. In compu
 ![image](https://github.com/user-attachments/assets/daf4b664-f0de-4e5f-b0a8-c696ef97e4e0)
 
 
-## Reconstruction Process (Super-Resolution $times 16$): 
+## Reconstruction Process (Super-Resolution $\times 16$): 
 
 ![Denoising](https://github.com/user-attachments/assets/45ddf8d8-fded-4d79-827b-ee3fb5727d84)
 
