@@ -5,6 +5,10 @@ Inverse problems exist in many disciplines of  science and engineering. In compu
 
 
 
+![Denoising](https://github.com/user-attachments/assets/45ddf8d8-fded-4d79-827b-ee3fb5727d84)
+
+
+
 ## Requirements
 - python 3.8
 - pytorch 1.11.0
